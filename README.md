@@ -10,6 +10,12 @@ A high-performance, responsive full-stack movie streaming dashboard built with t
 * **Frontend:** [https://ciniflix-login.vercel.app/]
 * **Backend:** [https://ciniflix-login.onrender.com]
 
+## Test Login credentials
+
+* **email:** `user@example.com`
+* **password:** `user@123`
+
+
 ## ✨ Features
 * **Authentication:** Secure login system using a Mock User database and Axios.
 * **Modern UI:** Responsive Netflix-inspired design with a dark aesthetic.
