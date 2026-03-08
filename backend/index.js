@@ -9,7 +9,7 @@ app.use(express.json());
 
 const MOCK_USER = {
   email: "user@example.com",
-  password: "password123"
+  password: "user@123"
 };
 
 app.get('/', function (req, res) {
